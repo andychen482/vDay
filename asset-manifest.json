@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vDay/static/css/main.37fb08c6.css",
+    "main.js": "/vDay/static/js/main.3000c4b8.js",
+    "static/js/592.7a1f8794.chunk.js": "/vDay/static/js/592.7a1f8794.chunk.js",
+    "static/media/toontown.mp3": "/vDay/static/media/toontown.3a924dd759829e768742.mp3",
+    "static/media/dance.gif": "/vDay/static/media/dance.2083f38d463846ff8897.gif",
+    "static/media/disney-springs-map-mickey-central.jpg": "/vDay/static/media/disney-springs-map-mickey-central.0c8f3a981496c97dcb7b.jpg",
+    "static/media/cupcake.jpg": "/vDay/static/media/cupcake.a4733fafc18c56657317.jpg",
+    "static/media/muffin.jpg": "/vDay/static/media/muffin.d16c6e0233d9bb18c5b6.jpg",
+    "static/media/cookie.jpg": "/vDay/static/media/cookie.850ecc466ec148498dd0.jpg",
+    "static/media/shockedCat.jpg": "/vDay/static/media/shockedCat.eaf18d59d57a71581b0e.jpg",
+    "static/media/honey.jpg": "/vDay/static/media/honey.46a9e7db4db6e9f0bfaa.jpg",
+    "static/media/catflower.jpg": "/vDay/static/media/catflower.054b51e4d745ca1dd57d.jpg",
+    "static/media/image.jpg": "/vDay/static/media/image.50cfdf8db0438a5c9a2a.jpg",
+    "index.html": "/vDay/index.html",
+    "main.37fb08c6.css.map": "/vDay/static/css/main.37fb08c6.css.map",
+    "main.3000c4b8.js.map": "/vDay/static/js/main.3000c4b8.js.map",
+    "592.7a1f8794.chunk.js.map": "/vDay/static/js/592.7a1f8794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37fb08c6.css",
+    "static/js/main.3000c4b8.js"
+  ]
+}
